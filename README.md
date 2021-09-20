@@ -1,4 +1,4 @@
-# CriandoChatbot
+# Criando um ChatBot utilizando o IBM Watson Assistant. Árvores de decisão utilizando o Watson Studio.
 
 <span align="center">
 
